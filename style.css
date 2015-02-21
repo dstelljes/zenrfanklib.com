@@ -1,0 +1,6 @@
+body {
+  background-image: url('images/wide.jpg');
+  background-position: 0 10%;
+  background-size: cover;
+  margin: 0;
+}
